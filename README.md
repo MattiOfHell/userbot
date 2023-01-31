@@ -1,5 +1,5 @@
 # userbot
 Itachisann's updated Userbot.
-Credits: [itachisann][itachisann]
+Credits: [itachisann]
 
-This is the modified and updated [Itachisann Userbot][https://github.com/Itachisann/ItachiUserbot]
+This is the modified and updated Itachisann Userbot [https://github.com/Itachisann/ItachiUserbot]
