@@ -7,7 +7,7 @@ This is the modified and updated Itachisann Userbot [https://github.com/Itachisa
 ## Requirements:
 
 * Python 3.9 or above.
-* Optional Telegram [API Key][tg-apps] (App ID and App Hash).
+* Optional Telegram [tg-apps] (App ID and App Hash).
 
 ## How to install:
 
